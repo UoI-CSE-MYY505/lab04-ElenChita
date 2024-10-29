@@ -10,6 +10,7 @@ marianna: .string "Marianna"
 
 .align 4  # make sure the string arrays are aligned to words (easier to see in ripes memory view)
 
+#This is a comment for now
 # These are string arrays
 # The labels below are replaced by the respective addresses
 arraySorted:    .word maria, marianna, marios, markos
